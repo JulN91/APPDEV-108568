@@ -1,6 +1,8 @@
 # Mastering Python: An In-Depth Guide
 ---
 
+Lorem ipsum dolor sit amet.
+
 Python is a versatile and powerful programming language known for its readability and straightforward syntax. It is a favorite among developers in diverse fields, from web development to data science, due to its simplicity and the vast ecosystem of libraries and frameworks it supports.
 
 ![Python Logo](https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png)
