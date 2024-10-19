@@ -1,10 +1,9 @@
 # Mastering Python: An In-Depth Guide
-
 ---
 
-![Python Logo](https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png)
-
 Python is a versatile and powerful programming language known for its readability and straightforward syntax. It is a favorite among developers in diverse fields, from web development to data science, due to its simplicity and the vast ecosystem of libraries and frameworks it supports.
+
+![Python Logo](https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png)
 
 ## 1. Python's Key Features
 Python offers several **core features** that make it immensely popular:
@@ -41,9 +40,9 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
 ---
 Whether it's web development or artificial intelligence, Python finds its application in numerous
 areas. Here's a look at some of them:
-• **Web Development:** Frameworks like Django and Flask.
-• **Data Science:** Libraries such as Pandas, NumPy, and Matplotlib.
-• **Machine Learning:** Tools like TensorFlow and Scikit-learn.
+* **Web Development:** Frameworks like Django and Flask.
+* **Data Science:** Libraries such as Pandas, NumPy, and Matplotlib.
+* **Machine Learning:** Tools like TensorFlow and Scikit-learn.
 
 ### 2.1 Python for Data Analysis
 Using Python for data analysis is incredibly efficient due to libraries such as Pandas. Below is an
@@ -65,8 +64,8 @@ conferences around the world, such as PyCon, and an abundance of resources avail
 
 ### 3.1 Community Resources
 Here are some great places to learn more about Python:
-• Python.org - The official Python website.
-• PyCon.org - A major conference for the Python community.
+* https://Python.org - The official Python website.
+* https://PyCon.org - A major conference for the Python community.
 
 ### 3.2 Utilizing Python Libraries
 Here is a table of some popular Python libraries and their uses:
